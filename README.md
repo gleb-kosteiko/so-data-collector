@@ -1,2 +1,7 @@
-# so-data-collector
-Tool for collecting data from Stackoverflow
+# Tool for collecting data from Stackoverflow
+
+
+How to build:
+```
+mvn package
+```
